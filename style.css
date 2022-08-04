@@ -1,0 +1,132 @@
+
+        h2{
+            color: white;
+            font-size: 30px;
+            margin-bottom: 30px;
+        }
+        
+        span{
+            color: #892CDC;
+            font-size: 50px;
+        }
+
+       body{
+            background-color: #000000;
+            
+        }
+
+        .main{
+            margin-left: 600px;
+            margin-top: 300px;
+             font-size: 22px;
+             color: white;
+        }
+
+        hr{
+            
+            width: 50%;
+            font-size: 60px;
+            margin-left: 600px;
+        }
+
+        .one{
+            position: absolute;
+            top: 100px;
+            left: 30px;
+            width: 320px;
+            padding: 10px;
+            border-radius: 40px;
+            border: 3px solid #52057B;
+        }
+        
+        .two{
+            position: absolute;
+            top: 12px;
+            left: 1260px;
+            width: 54px;
+        }
+        
+        .three{
+            position: absolute;
+            top: 12px;
+            left: 1340px;
+            width: 54px;
+        }
+        .start{
+            display: flex;
+            background-color: #52057B;
+            border-radius: 40px;
+            
+        }
+
+        .first a {
+            color: white;
+            margin-left: 50px;
+            font-size: 26px;
+        }
+        .first a:hover{
+            background-color: white;
+            color: #52057B;
+            border-radius: 30px;
+            padding: 10px;
+        }
+
+        .button{
+   
+            background-color: #52057B;
+            padding: 20px 40px;
+            font-size: 26px;
+            margin-top: 1000px;
+            margin-left: 900px;
+            border-radius: 50px ;
+            color: white;
+            
+        
+        }
+         .button:hover{
+            border-radius: 10px ;
+            border:3px solid white;
+            background-color: antiquewhite;
+            background: transparent;
+            color: white;
+        }
+
+        .buttonc{
+   
+            background-color: #52057B;
+            padding: 10px 20px;
+            font-size: 22px;
+            margin-top: 10px;
+            margin-left: 0px;
+            border-radius: 40px ;
+            color: white;
+            
+        
+        }
+         .buttonc:hover{
+            border-radius: 10px ;
+            border:3px solid white;
+            background-color: antiquewhite;
+            background: transparent;
+            color: white;
+        }
+        .c{
+            margin-top: 20px;
+            
+        }
+        .d{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 40vh;
+            font-family: cursive;
+        }
+        .z{
+            margin-left: 520px;
+        }
+        
+         
+             
+
+         
+    
